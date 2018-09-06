@@ -1,4 +1,4 @@
-# Simulating_Annealing
+# Simulating Annealing Python implementation
 Basic simulating annealing project
 
 - The algorithm was completely developed in Python language
